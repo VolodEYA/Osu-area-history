@@ -1,18 +1,18 @@
 # Osu-area-history
 Xp pen star g640:  
-Paper cover  
+Change to paper cover  
 04.12.23 = W 49.7, H 41.3, X 27.5, Y 33.5.  
 10.01.24 = W 49.4, H 37.7, X 27.5, Y 33.5.  
 31.01.24 = W 49.9, H 39.4, X 36.0, Y 38.9.  
 12.02.24 = W 49.6, H 39.1, X 36.0, Y 38.9. peak skill 196pp  
-[Graphite cover](https://www.aliexpress.com/item/1005001279122743.html)  
+Change to [Graphite cover](https://www.aliexpress.com/item/1005001279122743.html)  
 29.02.24 = W 56.0, H 47.0, X 36.0, Y 38.9.  
 01.03.24 = W 53.6, H 46.6, X 36.0, Y 38.9.  
 04.03.24 = W 53.0, H 46.6, X 36.0, Y 38.9.  
 06.03.24 = W 53.0, H 46.0, X 36.0, Y 38.9.  
 15.03.24 = W 56.4, H 46.9, X 36.0, Y 38.9.  
 Wacom CTL 490:  
-Without cover  
+Change to Without cover  
 16.03.24 = W 56.4, H 46.9, X 36.0, Y 38.9.  
 17.03.24 = W 60.0, H 47.6, X 38.8, Y 48.7.  
 18.03.24 = W 63.5, H 51.2, X 44.1, Y 45.2.  
