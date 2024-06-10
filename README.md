@@ -27,4 +27,4 @@ Add Hawku Smoothing Filter
 02.04.24 = W 61.7, H 55.7, X 39.0, Y 47.0; Latency = 5.  
 04.04.24 = W 58.0, H 55.7, X 39.0, Y 47.0; Latency = 5.  
 16.04.24 = W 58.0, H 55.7, X 39.0, Y 45.5; Latency = 3.  
-16.04.24 = W 59.0, H 57.15, X 39.0, Y 45.5; Latency = 5.  
+09.06.24 = W 60.0, H 57.0, X 39.0, Y 47.5; Latency = 2.  
