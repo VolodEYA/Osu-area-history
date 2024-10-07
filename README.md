@@ -35,3 +35,4 @@ Remove Hawku Smoothing Filter;
 Add Devocub Antichatter: Latency 3, Anitchatter Strenght 3, Anitchatter Multiplayer 1, Anitchatter Offset X 0, Anitchatter Offset Y 1,  
 Prediction disabled, Prediction Strenght 1, Prediction Sharpness 3, Prediction Offset X 0, Prediction Offset Y 0, Frequency 1000;  
 06.10.24 = W 70.0, H 50.0, X 40.0, Y 47.5;  
+07.10.24 = W 65.0, H 50.0, X 40.0, Y 47.5;  
