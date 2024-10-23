@@ -37,3 +37,7 @@ Prediction disabled, Prediction Strenght 1, Prediction Sharpness 3, Prediction O
 06.10.24 = W 70.0, H 50.0, X 40.0, Y 47.5;  
 07.10.24 = W 65.0, H 50.0, X 40.0, Y 47.5;  
 15.10.24 = W 62.0, H 50.0, X 40.0, Y 47.5;  
+Remove Devocub Antichatter;  
+Add AbstractQbit Radial Follow Smooting(Tablet coordinates): Outer Radius 0.5, Inner Radius 0.25, Inital Smooting Coefficient 0.2, Soft Knee Scale 0.3, Smooting Leak Coefficient 1;  
+Add AbstractQbit Radial Follow Smooting(Screen coordinates): Outer Radius 0.5, Inner Radius 0, Inital Smooting Coefficient 0.25, Soft Knee Scale 0, Smooting Leak Coefficient 1;  
+23.10.24 = W 62.0, H 50.0, X 41.0, Y 47.5;  
