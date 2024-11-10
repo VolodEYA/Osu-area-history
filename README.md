@@ -40,3 +40,4 @@ Remove Devocub Antichatter;
 Add AbstractQbit Radial Follow Smooting(Tablet coordinates): Outer Radius 0.5, Inner Radius 0.25, Inital Smooting Coefficient 0.2, Soft Knee Scale 0.3, Smooting Leak Coefficient 1;  
 Add AbstractQbit Radial Follow Smooting(Screen coordinates): Outer Radius 0.5, Inner Radius 0, Inital Smooting Coefficient 0.25, Soft Knee Scale 0, Smooting Leak Coefficient 1;  
 23.10.24 = W 62.0, H 50.0, X 41.0, Y 47.5;  
+10.11.24 = W 58.0, H 50.0, X 42.0, Y 48.0;     
