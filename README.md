@@ -40,4 +40,7 @@ Remove Devocub Antichatter;
 Add AbstractQbit Radial Follow Smooting(Tablet coordinates): Outer Radius 0.5, Inner Radius 0.25, Inital Smooting Coefficient 0.2, Soft Knee Scale 0.3, Smooting Leak Coefficient 1;  
 Add AbstractQbit Radial Follow Smooting(Screen coordinates): Outer Radius 0.5, Inner Radius 0, Inital Smooting Coefficient 0.25, Soft Knee Scale 0, Smooting Leak Coefficient 1;  
 23.10.24 = W 62.0, H 50.0, X 41.0, Y 47.5;  
-10.11.24 = W 58.0, H 50.0, X 42.0, Y 48.0;     
+10.11.24 = W 58.0, H 50.0, X 42.0, Y 48.0;  
+Remove AbstractQbit Radial Follow Smooting;  
+Add Devocub Antichatter: Latency 8, Anitchatter Strenght 3, Anitchatter Multiplayer 1, Anitchatter Offset X 0, Anitchatter Offset Y 1, Prediction disabled, Prediction Strenght 1, Prediction Sharpness 3, Prediction Offset X 0, Prediction Offset Y 0, Frequency 1000;  
+15.11.24 = W 58.0, H 50.0, X 42.0, Y 48.0;  
