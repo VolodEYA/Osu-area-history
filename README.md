@@ -41,5 +41,6 @@ Add AbstractQbit Radial Follow Smooting(Tablet coordinates): Outer Radius 0.5, I
 Add AbstractQbit Radial Follow Smooting(Screen coordinates): Outer Radius 0.5, Inner Radius 0, Inital Smooting Coefficient 0.25, Soft Knee Scale 0, Smooting Leak Coefficient 1;  
 23.10.24 = W 62.0, H 50.0, X 41.0, Y 47.5;  
 10.11.24 = W 58.0, H 50.0, X 42.0, Y 48.0;  
-Add Hawku Smoothing Filter: Latency 4, Frequency 1000;  
-26.11.24 = W 58.0, H 50.5, X 42.0, Y 47.8  ;  
+Remove AbstractQbit Radial Follow Smooting;  
+Add Hawku Smoothing Filter: Latency 3, Frequency 1000;  
+28.11.24 = W 62.0, H 50.0, X 35.0, Y 48.0;  
