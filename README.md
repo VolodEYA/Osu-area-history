@@ -44,3 +44,6 @@ Add AbstractQbit Radial Follow Smooting(Screen coordinates): Outer Radius 0.5, I
 Remove AbstractQbit Radial Follow Smooting;  
 Add Hawku Smoothing Filter: Latency 3, Frequency 1000;  
 28.11.24 = W 62.0, H 50.0, X 35.0, Y 48.0;  
+Remove Hawku Smoothing Filter;  
+Add Devocub Antichatter: Latency 3, Anitchatter Strenght 3, Anitchatter Multiplayer 1, Anitchatter Offset X 0.3, Anitchatter Offset Y 1, Prediction disabled, Prediction Strenght 1, Prediction Sharpness 3, Prediction Offset X 0, Prediction Offset Y 0, Frequency 1000;  
+30.11.24 = W 65.0, H 41.5, X 35.0, Y 25.0;  
