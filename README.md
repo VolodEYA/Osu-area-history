@@ -51,3 +51,4 @@ Remove Devocub Antichatter;
 Add Hawku Smoothing Filter: Latency 3, Frequency 1000;  
 05.12.24 = W 63.0, H 50.0, X 40.0, Y 38.0;  
 09.12.24 = W 64.0, H 51.0, X 40.0, Y 38.0;  
+11.12.24 = W 63.0, H 51.0, X 38.0, Y 32.0;  
