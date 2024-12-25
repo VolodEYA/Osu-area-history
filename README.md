@@ -1,9 +1,9 @@
 # Osu-area-history
 21.09.23 Xp pen star G640:  
 21.09.23 Playstyle: Drag;  
-29.09.23 Using clear tape cover; 
+29.09.23 Using clear tape cover;  
 29.09.23 Add Hawku Smoothing Filter: Latency 6, Frequency 1000;  
-29.09.23 Add AbstractQbit Radial Follow Smooting(Tablet coordinates): Outer Radius 0.35, Inner Radius 0.05, Inital Smooting Coefficient 0.45, Soft Knee Scale 0.15, Smooting Leak Coefficient 0; 
+29.09.23 Add AbstractQbit Radial Follow Smooting(Tablet coordinates): Outer Radius 0.35, Inner Radius 0.05, Inital Smooting Coefficient 0.45, Soft Knee Scale 0.15, Smooting Leak Coefficient 0;  
 29.09.23 = W 55.0, H 42.0, X 35.5, Y 26.0;  
 06.10.23 Using paper cover;  
 06.10.23 = W 53.5, H 40.5, X 33.0, Y 25.0;  
@@ -36,11 +36,11 @@
 30.03.24 = W 60.3, H 58.0, X 38.0, Y 47.0;  
 02.04.24 = W 61.7, H 55.7, X 39.0, Y 47.0;  
 04.04.24 Add Hawku Smoothing Filter: Latency 3, Frequency 1000;  
-04.04.24 = W 58.0, H 55.7, X 39.0, Y 47.0;
-16.04.24 Hawku Smoothing Filter: Latency 3;
+04.04.24 = W 58.0, H 55.7, X 39.0, Y 47.0;  
+16.04.24 Hawku Smoothing Filter: Latency 3;  
 16.04.24 = W 58.0, H 55.7, X 39.0, Y 45.5;  
 08.06.24 Playstyle: Hover;  
-08.06.24 = W 58.0, H 55.7, X 39.0, Y 47.7;   
+08.06.24 = W 58.0, H 55.7, X 39.0, Y 47.7;  
 09.06.24 Playstyle: Drag;  
 16.04.24 Add Hawku Smoothing Filter: Latency 2, Frequency 1000;  
 09.06.24 = W 60.0, H 57.0, X 39.0, Y 47.5;  
@@ -67,7 +67,9 @@
 09.12.24 = W 64.0, H 51.0, X 40.0, Y 38.0;  
 11.12.24 = W 63.0, H 51.0, X 38.0, Y 32.0;  
 12.12.24 = W 59.0, H 50.0, X 35.7, Y 35.0;  
-20.12.24 Fixing Wacom CTL 490 Hardware smoothing;
+20.12.24 Fixing Wacom CTL 490 Hardware smoothing;  
 20.12.24 = W 63.0, H 51.0, X 38.0, Y 32.0;  
 21.12.24 Remove Hawku Smoothing Filter;  
 21.20.24 Add Devocub Antichatter: Latency 3, Anitchatter Strenght 2, Anitchatter Multiplayer 0.8, Anitchatter Offset X 0, Anitchatter Offset Y 1.2, Prediction False, Frequency 250;  
+23.20.24 Devocub Antichatter: Anitchatter Multiplayer 1, Anitchatter Offset Y 0, Frequency 200;  
+24.12.24 = W 63.5, H 50.0, X 46.7, Y 50.0;  
