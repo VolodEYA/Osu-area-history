@@ -68,8 +68,7 @@
 11.12.24 = W 63.0, H 51.0, X 38.0, Y 32.0;  
 12.12.24 = W 59.0, H 50.0, X 35.7, Y 35.0;  
 20.12.24 Fixing Wacom CTL 490 Hardware smoothing;  
-20.12.24 = W 63.0, H 51.0, X 38.0, Y 32.0;  
 21.12.24 Remove Hawku Smoothing Filter;  
-21.20.24 Add Devocub Antichatter: Latency 3, Anitchatter Strenght 2, Anitchatter Multiplayer 0.8, Anitchatter Offset X 0, Anitchatter Offset Y 1.2, Prediction False, Frequency 250;  
-23.20.24 Devocub Antichatter: Anitchatter Multiplayer 1, Anitchatter Offset Y 0, Frequency 200;  
-24.12.24 = W 63.5, H 50.0, X 46.7, Y 50.0;  
+21.20.24 Add Devocub Antichatter: Latency 3, Anitchatter Strenght 2, Anitchatter Multiplayer 1, Anitchatter Offset X 0, Anitchatter Offset Y 1, Prediction False, Frequency 200;  
+25.12.24 = W 63.0, H 50.0, X 47.0, Y 50.0;  
+27.12.24 = W 70.0, H 50.0, X 45.0, Y 35.0;  
