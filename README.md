@@ -67,7 +67,7 @@
 09.12.24 = W 64.0, H 51.0, X 40.0, Y 38.0;  
 11.12.24 = W 63.0, H 51.0, X 38.0, Y 32.0;  
 12.12.24 = W 59.0, H 50.0, X 35.7, Y 35.0;  
-20.12.24 Fixing Wacom CTL 490 Hardware smoothing;  
+20.12.24 [Fixed Wacom CTL 490 Hardware smoothing](https://www.youtube.com/watch?v=WqJ0KLuJuq8&ab_channel=Riffo132);  
 21.12.24 Remove Hawku Smoothing Filter;  
 21.20.24 Add Devocub Antichatter: Latency 3, Anitchatter Strenght 2, Anitchatter Multiplayer 1, Anitchatter Offset X 0, Anitchatter Offset Y 1, Prediction False, Frequency 200;  
 25.12.24 = W 63.0, H 50.0, X 47.0, Y 50.0;  
