@@ -72,3 +72,5 @@
 21.20.24 Add Devocub Antichatter: Latency 3, Anitchatter Strenght 2, Anitchatter Multiplayer 1, Anitchatter Offset X 0, Anitchatter Offset Y 1, Prediction False, Frequency 200;  
 25.12.24 = W 63.0, H 50.0, X 47.0, Y 50.0;  
 27.12.24 = W 70.0, H 50.0, X 45.0, Y 35.0;  
+06.01.25 Devocub Antichatter: Anitchatter Multiplayer 0.8;  
+06.01.25 = W 67.0, H 50.0, X 44.0, Y 41.0;  
