@@ -73,4 +73,7 @@
 25.12.24 = W 63.0, H 50.0, X 47.0, Y 50.0;  
 27.12.24 = W 70.0, H 50.0, X 45.0, Y 35.0;  
 06.01.25 Devocub Antichatter: Anitchatter Multiplayer 0.8;  
-06.01.25 = W 67.0, H 50.0, X 44.0, Y 41.0;  
+06.01.25 = W 67.0, H 50.0, X 44.0, Y 43.0;  
+09.06.24 Playstyle: Drag;  
+23.10.24 Remove Devocub Antichatter;  
+11.01.25 = W 89.0, H 62.0, X 45.0, Y 42.0;  
