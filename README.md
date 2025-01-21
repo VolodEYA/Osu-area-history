@@ -72,6 +72,8 @@
 21.20.24 Add Devocub Antichatter: Latency 3, Anitchatter Strenght 2, Anitchatter Multiplayer 1, Anitchatter Offset X 0, Anitchatter Offset Y 1, Prediction False, Frequency 200;  
 25.12.24 = W 63.0, H 50.0, X 47.0, Y 50.0;  
 27.12.24 = W 70.0, H 50.0, X 45.0, Y 35.0;  
-06.01.25 Devocub Antichatter: Anitchatter Multiplayer 0.8;  
 06.01.25 = W 67.0, H 50.0, X 44.0, Y 43.0;  
 17.01.25 = W 65.0, H 45.0, X 37.0, Y 40.0;  
+18.01.25 = W 65.0, H 46.0, X 44.0, Y 43.5;  
+21.01.25 Remove Devocub Antichatter;  
+21.01.25 Add AbstractQbit Radial Follow Smooting(Tablet coordinates): Outer Radius 1.25, Inner Radius 0.1, Inital Smooting Coefficient 0.85, Soft Knee Scale 1, Smooting Leak Coefficient 0;  
