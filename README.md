@@ -38,10 +38,7 @@
 04.04.24 Add Hawku Smoothing Filter: Latency 3, Frequency 1000;  
 04.04.24 = W 58.0, H 55.7, X 39.0, Y 47.0;  
 16.04.24 Hawku Smoothing Filter: Latency 3;  
-16.04.24 = W 58.0, H 55.7, X 39.0, Y 45.5;  
-08.06.24 Playstyle: Hover;  
-08.06.24 = W 58.0, H 55.7, X 39.0, Y 47.7;  
-09.06.24 Playstyle: Drag;  
+16.04.24 = W 58.0, H 55.7, X 39.0, Y 45.5;      
 16.04.24 Add Hawku Smoothing Filter: Latency 2, Frequency 1000;  
 09.06.24 = W 60.0, H 57.0, X 39.0, Y 47.5;  
 10.06.24 = W 62.0, H 57.0, X 40.0, Y 47.5;  
