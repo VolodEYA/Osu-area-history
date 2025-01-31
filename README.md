@@ -53,13 +53,13 @@
 23.10.24 = W 62.0, H 50.0, X 41.0, Y 47.5;  
 10.11.24 = W 58.0, H 50.0, X 42.0, Y 48.0;  
 28.11.24 Remove AbstractQbit Radial Follow Smooting;  
-28.11.24 Add Hawku Smoothing Filter: Latency 3, Frequency 1000;  
+28.11.24 Add Hawku Smoothing Filter: Latency 3, Frequency 200;  
 28.11.24 = W 62.0, H 50.0, X 35.0, Y 48.0;  
 30.11.24 Remove Hawku Smoothing Filter;  
 30.11.24 Add Devocub Antichatter: Latency 3, Anitchatter Strenght 3, Anitchatter Multiplayer 1, Anitchatter Offset X 0.3, Anitchatter Offset Y 1, Prediction False, Frequency 250;  
 30.11.24 = W 65.0, H 50.0, X 41.5, Y 25.0;  
 05.12.24 Remove Devocub Antichatter;  
-05.12.24 Add Hawku Smoothing Filter: Latency 3, Frequency 1000;  
+05.12.24 Add Hawku Smoothing Filter: Latency 3, Frequency 200;  
 05.12.24 = W 63.0, H 50.0, X 40.0, Y 38.0;  
 09.12.24 = W 64.0, H 51.0, X 40.0, Y 38.0;  
 11.12.24 = W 63.0, H 51.0, X 38.0, Y 32.0;  
@@ -74,4 +74,8 @@
 18.01.25 = W 65.0, H 46.0, X 44.0, Y 43.5;  
 22.01.25 = W 62.0, H 46.0, X 44.0, Y 43.5;  
 28.01.25 Playstyle: Drag;  
+28.01.25 Remove Devocub Antichatter;  
+28.01.25 Add Hawku Smoothing Filter: Latency 3, Frequency 200;  
 28.01.25 = W 80.0, H 55.0, X 45.0, Y 35.0;  
+30.01.25 = W 75.0, H 50.0, X 45.0, Y 36.0;  
+31.01.25 = W 72.0, H 50.0, X 46.0, Y 35.0;  
