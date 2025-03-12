@@ -83,3 +83,9 @@
 11.02.25 = W 66.4, H 45.2, X 46.7, Y 50.0;  
 14.02.25 = W 66.4, H 47.0, X 47.0, Y 47.5;   
 16.02.25 = W 66.4, H 47.0, X 45.0, Y 47.0;   
+28.02.25 Remove Hawku Smoothing Filter;  
+28.02.25 Add AbstractQbit Radial Follow Smooting(Tablet coordinates): Outer Radius 0.5, Inner Radius 0.25, Inital Smooting Coefficient 0.2, Soft Knee Scale 0.3, Smooting Leak Coefficient 1;  
+28.02.25 = W 69.14, H 50.0, X 43.0, Y 47.0;   
+03.03.25 = W 68.5, H 49.0, X 42.3, Y 48.0;  
+05.03.25 = W 67.0, H 49.0, X 42.0, Y 48.0;  
+12.03.25 = W 65.5, H 48.0, X 41.5, Y 48.5;  
